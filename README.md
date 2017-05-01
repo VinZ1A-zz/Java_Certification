@@ -1,1 +1,1 @@
-# Test
+# Java 8 Certification (OCA-OCP) - Code snipplets
